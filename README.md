@@ -129,9 +129,9 @@ If you've never written a for-loop, or don't know what a string is in programmin
 `simple programs`
 `simple data structures`
 
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Introduction to programming](coursepages/intro-programming/README.md) | 10 weeks | 10 hours/week | none | [chat](https://discord.gg/syA242Z)
+Courses | Duration | Effort | Prerequisites | Discussion | Completed?
+:-- | :--: | :--: | :--: | :--: | :--:
+[Introduction to programming](coursepages/intro-programming/README.md) | 10 weeks | 10 hours/week | none | [chat](https://discord.gg/syA242Z) | ✅
 
 ### Introduction to Computer Science
 
@@ -143,9 +143,9 @@ This course will introduce you to the world of computer science. Students who ha
 `basic data structures and algorithms`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/jvchSm9)
+Courses | Duration | Effort | Prerequisites | Discussion | Completed?
+:-- | :--: | :--: | :--: | :--: | :--:
+[Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/jvchSm9) | ✅
 
 ## Core CS
 
@@ -166,15 +166,15 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 `Ruby`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Systematic Program Design](coursepages/spd/README.md) | 13 weeks | 8-10 hours/week | none | chat: [part 1](https://discord.gg/RfqAmGJ) / [part 2](https://discord.gg/kczJzpm)
-[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | 4-8 hours/week | Systematic Program Design ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | [chat](https://discord.gg/8BkJtXN)
-[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 4-8 hours/week | Programming Languages, Part A | [chat](https://discord.gg/EeA7VR9)
-[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 4-8 hours/week | Programming Languages, Part B | [chat](https://discord.gg/8EZUVbA)
-[Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | 4 weeks | 4 hours/week | [Basic Java](https://www.youtube.com/watch?v=GoXwIVyNvX0) | [chat](https://discord.com/channels/744385009028431943/891411727294562314)
-[Design Patterns](https://www.coursera.org/learn/design-patterns) | 4 weeks | 4 hours/week | Object-Oriented Design | [chat](https://discord.com/channels/744385009028431943/891412022120579103)
-[Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 2-5 hours/week | Design Patterns | [chat](https://discord.com/channels/744385009028431943/891412169638432788)
+Courses | Duration | Effort | Prerequisites | Discussion | Completed?
+:-- | :--: | :--: | :--: | :--: | :--:
+[Systematic Program Design](coursepages/spd/README.md) | 13 weeks | 8-10 hours/week | none | chat: [part 1](https://discord.gg/RfqAmGJ) / [part 2](https://discord.gg/kczJzpm) | ✅
+[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | 4-8 hours/week | Systematic Program Design ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | [chat](https://discord.gg/8BkJtXN) | ✅
+[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 4-8 hours/week | Programming Languages, Part A | [chat](https://discord.gg/EeA7VR9) | ✅
+[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 4-8 hours/week | Programming Languages, Part B | [chat](https://discord.gg/8EZUVbA) | ✅
+[Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | 4 weeks | 4 hours/week | [Basic Java](https://www.youtube.com/watch?v=GoXwIVyNvX0) | [chat](https://discord.com/channels/744385009028431943/891411727294562314) | ✅
+[Design Patterns](https://www.coursera.org/learn/design-patterns) | 4 weeks | 4 hours/week | Object-Oriented Design | [chat](https://discord.com/channels/744385009028431943/891412022120579103) | ✅
+[Software Architecture](https://www.coursera.org/learn/software-architecture) | 4 weeks | 2-5 hours/week | Design Patterns | [chat](https://discord.com/channels/744385009028431943/891412169638432788) | ✅
 
 ### Core math
 Discrete math (Math for CS) is a prerequisite and closely related to the study of algorithms and data structures. Calculus both prepares students for discrete math and helps students develop mathematical maturity.
